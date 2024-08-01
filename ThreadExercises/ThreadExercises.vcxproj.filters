@@ -21,9 +21,15 @@
     <ClCompile Include="ThreadSafeVector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MultithreadQuickSort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ThreadSafeVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MultithreadQuickSort.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

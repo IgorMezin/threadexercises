@@ -127,10 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MultithreadQuickSort.cpp" />
     <ClCompile Include="ThreadExercises.cpp" />
     <ClCompile Include="ThreadSafeVector.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MultithreadQuickSort.h" />
     <ClInclude Include="ThreadSafeVector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
