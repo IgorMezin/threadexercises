@@ -1,7 +1,2 @@
-﻿  ThreadExercises.cpp
-  ThreadSafeVector.cpp
-  Generating Code...
-ThreadExercises.obj : error LNK2019: unresolved external symbol "public: void __cdecl ThreadSafeVector<int>::push_back(int const &)" (?push_back@?$ThreadSafeVector@H@@QEAAXAEBH@Z) referenced in function "public: __cdecl `int __cdecl main(void)'::`2'::<lambda_1>::operator()(void)const " (??R<lambda_1>@?1??main@@YAHXZ@QEBA@XZ)
-ThreadExercises.obj : error LNK2019: unresolved external symbol "public: unsigned __int64 __cdecl ThreadSafeVector<int>::size(void)const " (?size@?$ThreadSafeVector@H@@QEBA_KXZ) referenced in function main
-ThreadExercises.obj : error LNK2019: unresolved external symbol "public: int __cdecl ThreadSafeVector<int>::operator[](unsigned __int64)const " (??A?$ThreadSafeVector@H@@QEBAH_K@Z) referenced in function main
-C:\Users\user\source\repos\ThreadExercises\x64\Debug\ThreadExercises.exe : fatal error LNK1120: 3 unresolved externals
+﻿  MultithreadQuickSort.cpp
+  ThreadExercises.vcxproj -> C:\Users\user\source\repos\ThreadExercises\x64\Debug\ThreadExercises.exe
